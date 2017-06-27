@@ -1,2 +1,2 @@
-# kwalityWalls
-KwalityWalls Proj
+# KwalityWalls
+First Project
